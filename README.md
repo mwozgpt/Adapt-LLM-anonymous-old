@@ -80,15 +80,3 @@ python evaluate.py \
     --out_dir results_nq/hybrid_retrieve
 ```
 
-## Contact and Citation
-
-For any questions about the code or the methodology, please feel free to [contact us](mailto:tiz.labruna@gmail.com) or open an issue. If you find this repository useful for your research, please consider citing our paper:
-
-```
-@article{labruna2024retrieve,
-  title={When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively},
-  author={Labruna, Tiziano and Campos, Jon Ander and Azkune, Gorka},
-  journal={arXiv preprint arXiv:2404.19705},
-  year={2024}
-}
-```
